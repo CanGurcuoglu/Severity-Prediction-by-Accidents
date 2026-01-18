@@ -26,7 +26,7 @@ This project analyzes a dataset of US traffic accidents to predict the severity 
 ## 🗺️ Geospatial Analysis
 
 Clustering techniques (K-Means & DBSCAN) were used to identify accident hotspots.
-![Map](link_to_map_image)
+![Map]
 <img width="1006" height="616" alt="output1" src="https://github.com/user-attachments/assets/2f265705-372c-4636-8073-3f9b933fe050" />
 
 ## 🚀 How to Run
