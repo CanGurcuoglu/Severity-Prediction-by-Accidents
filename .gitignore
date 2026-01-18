@@ -1,0 +1,23 @@
+# --- Veri Dosyaları (Kesinlikle Gönderme) ---
+*.csv
+*.xlsx
+*.zip
+*.rar
+*.json
+
+# --- Gereksiz Çıktılar ---
+*.html
+# (Haritayı resim olarak aldık, html dosyasını göndermeye gerek yok)
+
+# --- Python ve Jupyter Çöpleri ---
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# --- Sistem ve Editör Dosyaları ---
+.vscode/
+.idea/
+.DS_Store
+*.log
+venv/
+env/
